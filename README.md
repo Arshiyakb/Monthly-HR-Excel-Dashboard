@@ -1,3 +1,4 @@
 # Monthly-HR-Excel-Dashboard
 
-includes calculation table of dashboard
+Created an interactive dashboard which include seperate 
+ calculation table used in  dashboard
